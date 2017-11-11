@@ -1,0 +1,42 @@
+{
+  "presets": [
+    {
+      "activeModel": [
+        "#wind",
+        "#morning",
+        "#bell"
+      ],
+      "activeVolume": [
+        0.0674,
+        0.1294,
+        0.9588
+      ]
+    },
+    {
+      "activeModel": [
+        "#rain",
+        "#wind",
+        "#night"
+      ],
+      "activeVolume": [
+        0.1529,
+        0.3706,
+        0.0824
+      ]
+    },
+    {
+      "activeModel": [
+        "#wind",
+        "#night",
+        "#fire",
+        "#space"
+      ],
+      "activeVolume": [
+        0.1235,
+        0.1000,
+        0.5647,
+        0.0876
+      ]
+    }
+  ]
+}
